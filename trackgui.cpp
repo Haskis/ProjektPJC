@@ -99,19 +99,19 @@ void TrackGUI::setMyScene(){
   for(unsigned int i=0; i<displayedTrack->carVector.size(); i++){
     switch(i+1){
       case AbstractCar::Blue:{
-        brushImage = QImage(":/blueCar.png");
+        brushImage = QImage(":/Tekstury/blueCar.png");
         break;
       }
       case AbstractCar::Red:{
-        brushImage = QImage(":/redCar.png");
+        brushImage = QImage(":/Tekstury/redCar.png");
         break;
       }
       case AbstractCar::Green:{
-        brushImage = QImage(":/greenCar.png");
+        brushImage = QImage(":/Tekstury/greenCar.png");
         break;
       }
       case AbstractCar::Yellow:{
-        brushImage = QImage(":/yellowCar.png");
+        brushImage = QImage(":/Tekstury/yellowCar.png");
         break;
       }
       default:{
