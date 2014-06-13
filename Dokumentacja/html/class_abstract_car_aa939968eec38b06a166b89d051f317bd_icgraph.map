@@ -1,0 +1,4 @@
+<map id="AbstractCar::handleCollision" name="AbstractCar::handleCollision">
+<area shape="rect" id="node3" href="$class_abstract_car.html#ade89b58ea11184644372c06a88315db9" title="AbstractCar::goStep" alt="" coords="243,5,384,35"/>
+<area shape="rect" id="node5" href="$class_computer_car.html#a3ffd4f916c15e243ec5b82e6bad8bd28" title="ComputerCar::goStep" alt="" coords="432,5,581,35"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ComputerCar::goStep" name="ComputerCar::goStep">
+<area shape="rect" id="node3" href="$class_computer_car.html#a95029542309530b578a3208580dd94c5" title="ComputerCar::updateMoving\lDirection" alt="" coords="203,5,392,51"/>
+<area shape="rect" id="node5" href="$class_abstract_car.html#ade89b58ea11184644372c06a88315db9" title="AbstractCar::goStep" alt="" coords="227,75,368,104"/>
+<area shape="rect" id="node7" href="$class_abstract_car.html#aa939968eec38b06a166b89d051f317bd" title="AbstractCar::handleCollision" alt="" coords="441,75,628,104"/>
+<area shape="rect" id="node9" href="$class_cell.html#ae0c2140e7c9a98abe6082369925584d5" title="Cell::checkIfCellIsRoad" alt="" coords="679,75,839,104"/>
+</map>

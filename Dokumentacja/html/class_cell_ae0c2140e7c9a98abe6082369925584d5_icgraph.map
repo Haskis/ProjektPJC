@@ -1,0 +1,5 @@
+<map id="Cell::checkIfCellIsRoad" name="Cell::checkIfCellIsRoad">
+<area shape="rect" id="node3" href="$class_abstract_car.html#aa939968eec38b06a166b89d051f317bd" title="AbstractCar::handleCollision" alt="" coords="217,5,404,35"/>
+<area shape="rect" id="node5" href="$class_abstract_car.html#ade89b58ea11184644372c06a88315db9" title="AbstractCar::goStep" alt="" coords="453,5,595,35"/>
+<area shape="rect" id="node7" href="$class_computer_car.html#a3ffd4f916c15e243ec5b82e6bad8bd28" title="ComputerCar::goStep" alt="" coords="643,5,792,35"/>
+</map>
